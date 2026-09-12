@@ -1,7 +1,7 @@
-# Science Olympiad Robot Tour 2023-24
-Science Olympiad 2023-24 Robot Tour Event
+# Science Olympiad Robot Tour
+Science Olympiad Robot Tour Event
 
-Repository contains code and CAD models for device.
+Repository contains code for device.
 
 ## Team Members:
 
