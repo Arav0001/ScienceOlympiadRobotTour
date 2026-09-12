@@ -7,4 +7,4 @@ Repository contains code for device.
 
 Arav Sonawane - @Arav0001
 
-Ismail Akdeniz - @Ismailnotsus
+Ismail Akdeniz - @Ismail-Akdeniz
